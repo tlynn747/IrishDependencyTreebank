@@ -1912,7 +1912,7 @@
 33	FÁS	fás	Abr	Abr	_	30	nadjunct	_	_
 34	agus	agus	Conj	Coord	_	27	obl	_	_
 35	le	le	Prep	Simp	_	34	coord	_	_
-36	príomh-cheanncheathrú	ceanncheathrú	Noun	Noun	Fem+Com+Sg+GuessPref	35	pobj	_	_
+36	príomh-cheanncheathrú	príomh-cheanncheathrú	Noun	Noun	Fem+Com+Sg	35	pobj	_	_
 37	FÁS	fás	Abr	Abr	_	36	adjadjunct	_	_
 38	i	i	Prep	Simp	_	34	padjunct	_	_
 39	mBaile	Baile	Prop	Noun	Masc+Gen+Pl+Ecl	38	pobj	_	_
@@ -1955,14 +1955,14 @@
 34	agus	agus	Conj	Coord	_	23	adjpred	_	_
 35	uimhrithe	uimhrithe	Verbal	Adj	_	36	coord	_	_
 36	agus	agus	Conj	Coord	_	34	coord	_	_
-37	fíordheimhnithe	deimhnithe	Verbal	Adj	GuessPref	36	coord	_	_
+37	fíordheimhnithe	fíordheimhnithe	Verbal	Adj	_	36	coord	_	_
 38	i	i	Prep	Simp	_	36	padjunct	_	_
 39	cibé	cibé	Det	Det	Qty+Idf	40	det	_	_
 40	caoi	caoi	Noun	Noun	Fem+Com+Sg	38	pobj	_	_
 41	,	,	Punct	Punct	Int	40	punctuation	_	_
 42	a	a	Part	Vb	Rel+Direct	43	relparticle	_	_
 43	bhí	bí	Verb	PastInd	Len	51	coord	_	_
-44	forordaithe	ordaithe	Verbal	Adj	GuessPref	43	adjpred	_	_
+44	forordaithe	forordaithe	Verbal	Adj	_	43	adjpred	_	_
 45	roimh	roimh	Prep	Simp	_	44	padjunct	_	_
 46	thosach	tosach	Noun	Noun	Masc+Com+Sg+Len	45	pobj	_	_
 47	feidhme	feidhm	Noun	Noun	Fem+Gen+Sg	46	nadjunct	_	_
@@ -2014,7 +2014,7 @@
 7	acht	ach	Conj	Subord	_	3	particle	_	_
 8	mí-ádh	mí-ádh	Noun	Noun	Masc+Com+Sg	9	coord	_	_
 9	agus	agus	Conj	Coord	_	3	obj	_	_
-10	dí-mheas	meas	Noun	Noun	Masc+Com+Sg+GuessPref	9	coord	_	_
+10	dí-mheas	dímheas	Noun	Noun	Masc+Com+Sg	9	coord	_	_
 11	ar	ar	Prep	Simp	_	9	padjunct	_	_
 12	theanga	teanga	Noun	Noun	Fem+Com+Sg+Len	11	pobj	_	_
 13	d'	do	Prep	Simp	_	12	padjunct	_	_
@@ -3211,7 +3211,7 @@
 5	go	go	Part	Vb	Cmpl	6	vparticle	_	_
 6	bhféadfaidh	féad	Verb	VTI	FutInd+Ecl	1	comp	_	_
 7	ceart	ceart	Noun	Noun	Masc+Com+Sg	6	subj	_	_
-8	infheisteora	feisteoir	Noun	Noun	Masc+Gen+Sg+GuessPref	7	nadjunct	_	_
+8	infheisteora	infheisteoir	Noun	Noun	Masc+Gen+Sg	7	nadjunct	_	_
 9	ar	ar	Prep	Simp	_	8	obl	_	_
 10	chúiteamh	cúiteamh	Noun	Noun	Masc+Com+Sg+Len	9	pobj	_	_
 11	a	a	Part	Inf	_	12	toinfinitive	_	_
@@ -3221,7 +3221,7 @@
 15	caingne	caingean	Noun	Noun	Fem+Gen+Sg	14	nadjunct	_	_
 16	ag	ag	Prep	Simp	_	12	obl	_	_
 17	an	an	Art	Art	Sg+Def	18	det	_	_
-18	infheisteoir	feisteoir	Noun	Noun	Masc+Com+Sg+GuessPref	16	pobj	_	_
+18	infheisteoir	infheisteoir	Noun	Noun	Masc+Com+Sg	16	pobj	_	_
 19	in_aghaidh	in_aghaidh	Prep	Cmpd	_	12	padjunct	_	_
 20	na	na	Art	Art	Gen+Sg+Def+Fem	21	det	_	_
 21	scéime	scéim	Noun	Noun	Fem+Gen+Sg	19	pobj	_	_
@@ -4321,7 +4321,7 @@
 28	cathaoirleach	cathaoirleach	Noun	Noun	Masc+Com+Sg+DefArt	29	coord	_	_
 29	agus	agus	Conj	Coord	_	26	pobj	_	_
 30	an	an	Art	Art	Sg+Def	31	det	_	_
-31	príomhoifigeach	oifigeach	Noun	Noun	Masc+Com+Sg+DefArt+GuessPref	29	coord	_	_
+31	príomhoifigeach	príomhoifigeach	Noun	Noun	Masc+Com+Sg+DefArt	29	coord	_	_
 32	feidhmiúcháin	feidhmiúchán	Noun	Noun	Masc+Gen+Sg	31	nadjunct	_	_
 33	)	)	Punct	Punct	_	26	punctuation	_	_
 34	as	as	Prep	Simp	_	20	obl	_	_
@@ -4766,7 +4766,7 @@
 1	Mar	mar	Prep	Simp	_	3	padjunct	_	_
 2	sin	sin	Pron	Dem	_	1	pobj	_	_
 3	beidh	bí	Verb	FutInd	_	0	top	_	_
-4	comhionannas	ionannas	Noun	Noun	Masc+Com+Sg+GuessPref	3	subj	_	_
+4	comhionannas	comhionannas	Noun	Noun	Masc+Com+Sg	3	subj	_	_
 5	i	i	Prep	Simp	_	3	ppred	_	_
 6	gceist	ceist	Noun	Noun	Fem+Com+Sg+Ecl	5	pobj	_	_
 7	anseo	anseo	Adv	Loc	_	3	advadjunct	_	_
@@ -5296,7 +5296,7 @@
 32	na	na	Art	Art	Gen+Sg+Def+Fem	33	det	_	_
 33	cathrach	cathair	Noun	Noun	Fem+Gen+Sg+DefArt	31	nadjunct	_	_
 34	ag	ag	Prep	Simp	_	25	padjunct	_	_
-35	leathuair	uair	Noun	Noun	Fem+Com+Sg+GuessPref	34	pobj	_	_
+35	leathuair	leathuair	Noun	Noun	Fem+Com+Sg	34	pobj	_	_
 36	tar_éis	tar_éis	Prep	Cmpd	_	35	padjunct	_	_
 37	a	a	Part	Nm	_	38	qparticle	_	_
 38	dó	dó	Num	Num	Card	36	pobj	_	_
@@ -5543,7 +5543,7 @@
 20	.	.	.	.	_	15	punctuation	_	_
 
 1	Bhí	bí	Verb	PastInd	Len	0	top	_	_
-2	an-easpa	easpa	Noun	Noun	Fem+Com+Sg+GuessPref	1	subj	_	_
+2	an-easpa	an-easpa	Noun	Noun	Fem+Com+Sg	1	subj	_	_
 3	cailíní	cailín	Noun	Noun	Masc+Com+Pl	4	coord	_	_
 4	agus	agus	Conj	Coord	_	2	nadjunct	_	_
 5	ban	bean	Noun	Noun	Fem+Gen+Strong+Pl	4	coord	_	_
@@ -6008,7 +6008,7 @@
 1	(vi)	(vi)	Item	Item	_	2	quant	_	_
 2	tríd	trí	Prep	Simp	_	18	padjunct	_	_
 3	an	an	Art	Art	Sg+Def	4	det	_	_
-4	bhfo-alt	alt	Noun	Noun	Masc+Com+Sg+Ecl+GuessPref	9	obj	_	_
+4	bhfo-alt	fo-alt	Noun	Noun	Masc+Com+Sg+Ecl	9	obj	_	_
 5	seo	seo	Det	Det	Dem	4	dem	_	_
 6	a	a	Part	Vb	Rel+Direct	7	relparticle	_	_
 7	leanas	lean	Verb	VTI	PresInd+Rel	4	relmod	_	_
@@ -6016,7 +6016,7 @@
 9	chur	cur	Verbal	Noun	VTI+Len	2	pobj	_	_
 10	in	i	Prep	Simp	_	9	obl	_	_
 11	ionad	ionad	Noun	Noun	Masc+Com+Sg	10	pobj	_	_
-12	fho-alt	alt	Noun	Noun	Masc+Com+Sg+Len+GuessPref	11	nadjunct	_	_
+12	fho-alt	fo-alt	Noun	Noun	Masc+Com+Sg+Len	11	nadjunct	_	_
 13	(17)	(17)	Item	Item	_	12	quant	_	_
 14	:	:	Punct	Punct	Int	16	punctuation	_	_
 15	'	'	Punct	Punct	Quo	16	punctuation	_	_
@@ -6029,7 +6029,7 @@
 22	ón	ó	Prep	Art	Sg	21	padjunct	_	_
 23	mBinse	binse	Noun	Noun	Masc+Com+Sg+Ecl	22	pobj	_	_
 24	faoi	faoi	Prep	Simp	_	21	padjunct	_	_
-25	fho-alt	alt	Noun	Noun	Masc+Com+Sg+Len+GuessPref	24	pobj	_	_
+25	fho-alt	fo-alt	Noun	Noun	Masc+Com+Sg+Len	24	pobj	_	_
 26	(2)	(2)	Item	Item	_	25	quant	_	_
 27	agus	agus	Conj	Coord	_	33	obj	_	_
 28	na	na	Art	Art	Pl+Def	29	det	_	_
@@ -6459,11 +6459,11 @@
 22	nGaeltacht	gaeltacht	Noun	Noun	Fem+Com+Sg+Ecl	23	coord	_	_
 23	agus	agus	Conj	Coord	_	20	pobj	_	_
 24	an	an	Art	Art	Sg+Def	25	det	_	_
-25	tIdirlíon	líon	Noun	Noun	Masc+Com+Sg+DefArt+GuessPref	23	coord	_	_
+25	tIdirlíon	idirlíon	Noun	Noun	Masc+Com+Sg+DefArt	23	coord	_	_
 26	,	,	Punct	Punct	Int	27	punctuation	_	_
 27	forbairt	forbairt	Noun	Noun	Fem+Com+Sg	17	nadjunct	_	_
 28	suímh	suíomh	Noun	Noun	Masc+Gen+Sg	27	nadjunct	_	_
-29	idirlín	líon	Noun	Noun	Masc+Gen+Sg+GuessPref	28	nadjunct	_	_
+29	idirlín	idirlíon	Noun	Noun	Masc+Gen+Sg	28	nadjunct	_	_
 30	a	a	Part	Vb	Rel+Direct	31	relparticle	_	_
 31	bhaineann	bain	Verb	VTI	PresInd+Len	28	relmod	_	_
 32	le	le	Prep	Simp	_	31	obl	_	_
@@ -6973,7 +6973,7 @@
 24	deirge	deirge	Adj	Adj	Comp	22	adjpred	_	_
 25	(	(	Punct	Punct	_	27	punctuation	_	_
 26	an	an	Art	Art	Sg+Def	27	det	_	_
-27	deargaistriú	aistriú	Verbal	Noun	VTI+GuessPref	18	app	_	_
+27	deargaistriú	deargaistriú	Noun	Noun	Masc+Com+Sg	18	app	_	_
 28	)	)	Punct	Punct	_	27	punctuation	_	_
 29	.	.	.	.	_	27	punctuation	_	_
 
@@ -8301,7 +8301,7 @@
 5	i	i	Prep	Simp	_	4	ppred	_	_
 6	bhfeidhm	feidhm	Noun	Noun	Fem+Com+Sg+Ecl	5	pobj	_	_
 7	faoi	faoi	Prep	Simp	_	6	padjunct	_	_
-8	fho-alt	alt	Noun	Noun	Masc+Com+Sg+Len+GuessPref	7	pobj	_	_
+8	fho-alt	fo-alt	Noun	Noun	Masc+Com+Sg+Len	7	pobj	_	_
 9	(2)	(2)	Item	Item	_	8	quant	_	_
 10	-	-	Punct	Punct	Bar	8	punctuation	_	_
 11	(a)	(a)	Item	Item	_	8	quant	_	_
@@ -8310,7 +8310,7 @@
 14	é	é	Pron	Pers	3P+Sg+Masc	13	aug	_	_
 15	gur	is	Cop	Cop	Pres+Dep	12	csubj	_	_
 16	faoi	faoi	Prep	Simp	_	15	ppred	_	_
-17	fho-alt	alt	Noun	Noun	Masc+Com+Sg+Len+GuessPref	16	pobj	_	_
+17	fho-alt	fo-alt	Noun	Noun	Masc+Com+Sg+Len	16	pobj	_	_
 18	(2)	(2)	Item	Item	_	17	quant	_	_
 19	(a)	(a)	Item	Item	_	17	quant	_	_
 20	a	a	Part	Vb	Rel+Direct	21	vparticle	_	_
@@ -8337,7 +8337,7 @@
 41	é	é	Pron	Pers	3P+Sg+Masc	40	aug	_	_
 42	gur	is	Cop	Cop	Pres+Dep	39	subj	_	_
 43	faoi	faoi	Prep	Simp	_	42	ppred	_	_
-44	fho-alt	alt	Noun	Noun	Masc+Com+Sg+Len+GuessPref	43	pobj	_	_
+44	fho-alt	fo-alt	Noun	Noun	Masc+Com+Sg+Len	43	pobj	_	_
 45	(2)	(2)	Item	Item	_	44	quant	_	_
 46	(b)	(b)	Item	Item	_	44	quant	_	_
 47	a	a	Part	Vb	Rel+Direct	48	vparticle	_	_
@@ -18689,7 +18689,7 @@
 1	Tugadh	tabhair	Verb	VTI	PastInd+Auto	9	coord	_	_
 2	thart	thart	Adv	Dir	_	1	advadjunct	_	_
 3	ar	ar	Prep	Simp	_	1	obl	_	_
-4	phríomhfhoirgneamh	foirgneamh	Noun	Noun	Masc+Com+Sg+Len+GuessPref	3	pobj	_	_
+4	phríomhfhoirgneamh	príomhfhoirgneamh	Noun	Noun	Masc+Com+Sg+Len	3	pobj	_	_
 5	poiblí	poiblí	Adj	Adj	Base	4	adjadjunct	_	_
 6	an	an	Art	Art	Sg+Def	7	det	_	_
 7	Ionaid	ionad	Noun	Noun	Masc+Gen+Sg+DefArt	4	nadjunct	_	_
@@ -19942,7 +19942,7 @@
 11	Chomhairle	comhairle	Noun	Noun	Fem+Gen+Sg+Len	10	nadjunct	_	_
 12	na	na	Art	Art	Gen+Sg+Def+Fem	13	det	_	_
 13	nDámhachtainí	dámhachtain	Noun	Noun	Fem+Com+Pl	11	nadjunct	_	_
-14	Ardoideachais	oideachas	Noun	Noun	Masc+Gen+Sg+GuessPref	13	nadjunct	_	_
+14	Ardoideachais	ardoideachas	Noun	Noun	Masc+Gen+Sg	13	nadjunct	_	_
 15	Oiliúna	oiliúint	Noun	Noun	Fem+Gen+Sg	14	nadjunct	_	_
 16	,	,	Punct	Punct	Int	17	punctuation	_	_
 17	tairiscint	tairiscint	Noun	Noun	Fem+Com+Sg	6	obj	_	_
@@ -20058,7 +20058,7 @@
 20	aon	aon	Noun	Noun	Masc+Com+Sg	21	nadjunct	_	_
 21	scrúduithe	scrúdú	Noun	Noun	Masc+Gen+Strong+Pl	22	coord	_	_
 22	agus	agus	Conj	Coord	_	19	nadjunct	_	_
-23	imscrúduithe	scrúdú	Noun	Noun	Masc+Com+Pl+GuessPref	22	coord	_	_
+23	imscrúduithe	imscrúdú	Noun	Noun	Masc+Com+Pl	22	coord	_	_
 24	a	a	Part	Vb	Rel+Direct	25	relparticle	_	_
 25	bheidh	bí	Verb	FutInd	Len	22	relmod	_	_
 26	déanta	déanta	Verbal	Adj	_	25	adjpred	_	_
@@ -20102,7 +20102,7 @@
 64	haon	aon	Num	Num	Card+hPref	65	quant	_	_
 65	scrúduithe	scrúdú	Noun	Noun	Masc+Com+Pl	66	coord	_	_
 66	agus	agus	Conj	Coord	_	63	pobj	_	_
-67	imscrúduithe	scrúdú	Noun	Noun	Masc+Com+Pl+GuessPref	66	coord	_	_
+67	imscrúduithe	imscrúdú	Noun	Noun	Masc+Com+Pl	66	coord	_	_
 68	den	de	Prep	Art	Sg	66	padjunct	_	_
 69	sórt	sórt	Noun	Noun	Masc+Com+Sg+DefArt	68	pobj	_	_
 70	sin	sin	Det	Det	Dem	69	dem	_	_
@@ -20175,7 +20175,7 @@
 30	agus	agus	Conj	Coord	_	14	subadjunct	_	_
 31	spéis	spéis	Noun	Noun	Fem+Com+Sg+DefArt	30	comp	_	_
 32	i	i	Prep	Simp	_	31	padjunct	_	_
-33	ndíthógáil	tógáil	Noun	Noun	Fem+Com+Sg+Ecl+GuessPref	32	pobj	_	_
+33	ndíthógáil	díthógáil	Noun	Noun	Fem+Com+Sg+Ecl	32	pobj	_	_
 34	na	na	Art	Art	Gen+Sg+Def+Fem	35	det	_	_
 35	gcoincheapa	coincheap	Noun	Noun	Masc+Gen+Sg+Ecl	33	nadjunct	_	_
 36	nua-aimseartha	nua-aimseartha	Adj	Adj	Base	35	adjadjunct	_	_
@@ -21132,7 +21132,7 @@
 
 1	Goilleann	goill	Verb	VI	PresInd	0	top	_	_
 2	a	a	Det	Det	Poss+3P+Sg+Fem	3	poss	_	_
-3	sean-aois	aois	Noun	Noun	Fem+Com+Sg+GuessPref	1	subj	_	_
+3	sean-aois	seanaois	Noun	Noun	Fem+Com+Sg	1	subj	_	_
 4	uirthi	ar	Pron	Prep	3P+Sg+Fem	1	obl	_	_
 5	go	go	Part	Ad	_	6	advparticle	_	_
 6	mór	mór	Adj	Adj	Base	7	coord	_	_
@@ -21244,7 +21244,7 @@
 9	uairibh	uairibh	Noun	Noun	Fem+Com+Sg	8	pobj	_	_
 10	,	,	Punct	Punct	Int	11	punctuation	_	_
 11	sa	i	Prep	Art	Sg	1	padjunct	_	_
-12	ghnáthgharraí	garraí	Noun	Noun	Masc+Com+Sg+Len+GuessPref	11	pobj	_	_
+12	ghnáthgharraí	gnáthgharraí	Noun	Noun	Masc+Com+Sg+Len	11	pobj	_	_
 13	cúil	cúl	Noun	Noun	Masc+Gen+Sg	12	nadjunct	_	_
 14	sa	i	Prep	Art	Sg	12	padjunct	_	_
 15	bhaile	baile	Noun	Noun	Masc+Com+Sg+Len	14	pobj	_	_
@@ -22017,7 +22017,7 @@
 6	aige	ag	Pron	Prep	3P+Sg+Masc	1	obl	_	_
 7	.	.	.	.	_	1	punctuation	_	_
 
-1	Seandúshlán	dúshlán	Noun	Noun	Masc+Com+Sg+GuessPref	0	top	_	_
+1	Seandúshlán	seandúshlán	Noun	Noun	Masc+Com+Sg	0	top	_	_
 2	an	an	Art	Art	Sg+Def	3	det	_	_
 3	mhí-áidh	mí-ádh	Noun	Noun	Masc+Gen+Sg+DefArt	1	nadjunct	_	_
 4	a	a	Part	Vb	Rel+Direct	5	cleftparticle	_	_
@@ -22105,7 +22105,7 @@
 8	idirnáisiúnta	idirnáisiúnta	Adj	Adj	Base	7	adjadjunct	_	_
 9	agus	agus	Conj	Coord	_	5	obl	_	_
 10	dá	do	Prep	Poss	3P+Sg+Masc	9	coord	_	_
-11	buanchoimeád	coimeád	Noun	Noun	Masc+Com+Sg+GuessPref	10	pobj	_	_
+11	buanchoimeád	buanchoimeád	Noun	Noun	Masc+Com+Sg	10	pobj	_	_
 12	i	i	Prep	Simp	_	5	padjunct	_	_
 13	gCairt	cairt	Noun	Noun	Fem+Com+Sg+Ecl	12	pobj	_	_
 14	na	na	Art	Art	Gen+Sg+Def+Fem	15	det	_	_
@@ -22530,7 +22530,7 @@
 5	bheidh	bí	Verb	FutInd	Neg+Len	0	top	_	_
 6	feidhm	feidhm	Noun	Noun	Fem+Com+Sg	5	subj	_	_
 7	ag	ag	Prep	Simp	_	5	obl	_	_
-8	fo-alt	alt	Noun	Noun	Masc+Com+Sg+GuessPref	7	pobj	_	_
+8	fo-alt	fo-alt	Noun	Noun	Masc+Com+Sg	7	pobj	_	_
 9	(1)	(1)	Item	Item	_	8	quant	_	_
 10	maidir_le	maidir_le	Prep	CmpdNoGen	_	5	padjunct	_	_
 11	comaoin	comaoin	Noun	Noun	Fem+Com+Sg	10	pobj	_	_
@@ -22742,7 +22742,7 @@
 6	ach	ach	Conj	Subord	_	1	subadjunct	_	_
 7	thart	thart	Adv	Dir	_	1	advpred	_	_
 8	ar	ar	Prep	Simp	_	7	obl	_	_
-9	leathuair	uair	Noun	Noun	Fem+Com+Sg+GuessPref	8	pobj	_	_
+9	leathuair	leathuair	Noun	Noun	Fem+Com+Sg	8	pobj	_	_
 10	ar	ar	Prep	Simp	_	9	padjunct	_	_
 11	shiúl	siúl	Verbal	Noun	VTI+Len	10	pobj	_	_
 12	i	i	Prep	Simp	_	11	padjunct	_	_
@@ -24545,7 +24545,7 @@
 2	an	an	Art	Art	Sg+Def	3	det	_	_
 3	bogha	bogha	Noun	Noun	Masc+Com+Sg+DefArt	1	subj	_	_
 4	an	an	Art	Art	Sg+Def	5	det	_	_
-5	banlaoch	laoch	Noun	Noun	Masc+Com+Sg+DefArt+GuessPref	1	obj	_	_
+5	banlaoch	banlaoch	Noun	Noun	Masc+Com+Sg+DefArt	1	obj	_	_
 6	Clothra	Clothra	Prop	Noun	Noun+Masc+Com+Sg	5	nadjunct	_	_
 7	,	,	Punct	Punct	Int	8	punctuation	_	_
 8	cé	cé	Conj	Subord	_	1	subadjunct	_	_
@@ -24579,7 +24579,7 @@
 17	a	a	Part	Inf	_	18	toinfinitive	_	_
 18	iarraidh	iarraidh	Verbal	Noun	VT	14	pobj	_	_
 19	faoin	faoi	Prep	Art	Sg	18	padjunct	_	_
-20	imscrúdú	scrúdú	Noun	Noun	Masc+Com+Sg+GuessPref	19	pobj	_	_
+20	imscrúdú	imscrúdú	Noun	Noun	Masc+Com+Sg	19	pobj	_	_
 21	a	a	Part	Vb	Rel+Direct	22	relparticle	_	_
 22	bhí	bí	Verb	PastInd	Len	20	relmod	_	_
 23	déanta	déanta	Verbal	Adj	_	22	adjpred	_	_
