@@ -488,7 +488,7 @@
 11	san	i	Prep	Art	Sg	8	padjunct	_	_
 12	áireamh	áireamh	Noun	Noun	Masc+Com+Sg	11	pobj	_	_
 13	ag	ag	Prep	Simp	_	1	obl	_	_
-14	meitéareolaithe	meitéareolaí	Noun	Noun	Masc+Com+Pl+GuessCmpd	13	pobj	_	_
+14	meitéareolaithe	meitéareolaí	Noun	Noun	Masc+Com+Pl	13	pobj	_	_
 15	,	,	Punct	Punct	Int	1	punctuation	_	_
 16	ón	ó	Prep	Art	Sg	1	padjunct	_	_
 17	gceobhrán	ceobhrán	Noun	Noun	Masc+Com+Sg+Ecl	16	pobj	_	_
@@ -501,7 +501,7 @@
 3	tsamhail	samhail	Noun	Noun	Fem+Com+Sg+DefArt	1	subj	_	_
 4	leis	le	Pron	Prep	3P+Sg+Masc	1	obl	_	_
 5	mar	mar	Prep	Simp	_	1	padjunct	_	_
-6	bhunphointe	pointe	Noun	Noun	Masc+Com+Sg+Len+GuessPref	5	pobj	_	_
+6	bhunphointe	bunphointe	Noun	Noun	Masc+Com+Sg+Len	5	pobj	_	_
 7	tosaigh	tosach	Noun	Noun	Masc+Gen+Sg	6	adjadjunct	_	_
 8	go	go	Part	Vb	Cmpl	9	vparticle	_	_
 9	ndéileálfaí	déileáil	Verb	VI	Cond+Auto+Ecl	1	comp	_	_
@@ -516,7 +516,7 @@
 18	nach	nach	Part	Vb	Neg+Rel	19	relparticle	_	_
 19	bhfuil	bí	Verb	PresInd	Dep+Ecl	15	relmod	_	_
 20	a	a	Det	Det	Poss+3P+Pl	21	poss	_	_
-21	lánchumas	cumas	Noun	Noun	Masc+Com+Sg+Len+GuessPref	19	subj	_	_
+21	lánchumas	lánchumas	Noun	Noun	Masc+Com+Sg+Ecl	19	subj	_	_
 22	á	do	Prep	Poss	3P+Sg+Masc+Obj	19	xcomp	_	_
 23	bhaint	baint	Verbal	Noun	VTI+Len	22	pobj	_	_
 24	amach	amach	Adv	Dir	_	23	advadjunct	_	_
@@ -873,7 +873,7 @@
 30	athfoilsítear	athfoilsí	Verb	VTI	VTI+PresInd+Auto	28	coord	_	_
 31	anseo	anseo	Adv	Loc	_	30	advadjunct	_	_
 32	le	le	Prep	Simp	_	30	padjunct	_	_
-33	caoin-chead	cead	Noun	Noun	Masc+Com+Sg+GuessCmpd	32	pobj	_	_
+33	caoin-chead	caoinchead	Noun	Noun	Masc+Com+Sg	32	pobj	_	_
 34	eagarthóra	eagarthóir	Noun	Noun	Masc+Gen+Sg	33	nadjunct	_	_
 35	na	na	Art	Art	Gen+Sg+Def+Fem	36	det	_	_
 36	hirise	iris	Noun	Noun	Fem+Gen+Sg+hPref	34	nadjunct	_	_
@@ -1036,7 +1036,7 @@
 31	i	i	Prep	Simp	_	1	padjunct	_	_
 32	measc	measc	Noun	Noun	Masc+Com+Sg	31	pobj	_	_
 33	lucht	lucht	Noun	Noun	Masc+Com+Sg	35	coord	_	_
-34	mion-náisiún	náisiún	Noun	Noun	Masc+Gen+Weak+Pl+GuessCmpd	33	nadjunct	_	_
+34	mion-náisiún	mion-náisiún	Noun	Noun	Masc+Gen+Weak+Pl	33	nadjunct	_	_
 35	,	,	Punct	Punct	Int	38	coord	_	_
 36	lucht	lucht	Noun	Noun	Masc+Com+Sg	35	coord	_	_
 37	mionteangacha	mionteanga	Noun	Noun	Masc+Gen+Pl	36	nadjunct	_	_
@@ -1112,7 +1112,7 @@
 31	i	i	Prep	Simp	_	23	padjunct	_	_
 32	ndáil	dáil	Noun	Noun	Fem+Com+Sg+Ecl	31	pobj	_	_
 33	le	le	Prep	Simp	_	32	padjunct	_	_
-34	fochuideachta	cuideachta	Noun	Noun	Fem+Com+Sg+GuessPref	33	pobj	_	_
+34	fochuideachta	fochuideachta	Noun	Noun	Fem+Com+Sg	33	pobj	_	_
 35	,	,	Punct	Punct	Int	2	punctuation	_	_
 36	beidh	bí	Verb	VI	FutInd	0	top	_	_
 37	sé	sé	Pron	Pers	3P+Sg+Masc+Sbj	38	coord	_	_
@@ -1139,7 +1139,7 @@
 58	,	,	Punct	Punct	Int	49	punctuation	_	_
 59	ag	ag	Prep	Simp	_	49	obl_ag	_	_
 60	an	an	Art	Art	Sg+Def	61	det	_	_
-61	bhfochuideachta	cuideachta	Noun	Noun	Fem+Com+Sg+Ecl+GuessPref	59	pobj	_	_
+61	bhfochuideachta	fochuideachta	Noun	Noun	Fem+Com+Sg+Ecl	59	pobj	_	_
 62	a	a	Det	Det	Poss+3P+Sg+Masc	63	det	_	_
 63	mhéid	méid	Noun	Noun	Masc+Com+Sg+Len	49	adjunct	_	_
 64	a	a	Part	Vb	Rel+Direct	65	relparticle	_	_
@@ -1152,7 +1152,7 @@
 71	a	a	Part	Vb	Rel+Direct	72	relparticle	_	_
 72	thugtar	tabhair	Verb	VTI	PresInd+Auto+Len	80	coord	_	_
 73	don	do	Prep	Art	Sg	72	obl	_	_
-74	fhochuideachta	cuideachta	Noun	Noun	Fem+Com+Sg+Len+GuessPref	72	pobj	_	_
+74	fhochuideachta	fochuideachta	Noun	Noun	Fem+Com+Sg+Len	72	pobj	_	_
 75	de	de	Prep	Simp	_	74	padjunct	_	_
 76	bhua	bua	Noun	Noun	Masc+Com+Sg+Len	75	pobj	_	_
 77	an	an	Art	Art	Sg+Def	78	det	_	_
@@ -1633,7 +1633,7 @@
 10	bliana	bliain	Noun	Noun	Fem+Gen+Sg+DefArt	8	nadjunct	_	_
 11	1969	1969	Num	Num	Dig	10	quant	_	_
 12	i	i	Prep	Simp	_	1	padjunct	_	_
-13	dtoghcheantar	ceantar	Noun	Noun	Masc+Com+Sg+Ecl+GuessPref	12	pobj	_	_
+13	dtoghcheantar	toghcheantar	Noun	Noun	Masc+Com+Sg+Ecl	12	pobj	_	_
 14	Bhaile	Baile	Prop	Noun	Masc+Gen+Sg+Len	13	nadjunct	_	_
 15	Átha_Cliath	Átha_Cliath	Prop	Noun	Masc+Gen+Sg	14	nadjunct	_	_
 16	Thiar	thiar	Adv	Dir	_	14	adjadjunct	_	_
