@@ -423,7 +423,7 @@
 2	de_bharr	de_bharr	Prep	Cmpd	_	1	ppred	_	_
 3	a	a	Det	Det	_	4	poss	_	_
 4	chontúirt	contúirt	Noun	Noun	_	2	pobj	_	_
-5	don	don	Prop	Noun	_	4	padjunct	_	_
+5	don	do	Prep	Art	_	4	obl	_	_
 6	neodracht	neodracht	Noun	Noun	_	5	pobj	_	_
 7	mhíleata	míleata	Adj	Adj	_	6	adjadjunct	_	_
 8	is	is	Part	Sup	_	9	particle	_	_
