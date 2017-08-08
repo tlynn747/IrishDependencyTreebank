@@ -873,7 +873,7 @@
 30	athfoilsítear	athfoilsí	Verb	VTI	VTI+PresInd+Auto	28	coord	_	_
 31	anseo	anseo	Adv	Loc	_	30	advadjunct	_	_
 32	le	le	Prep	Simp	_	30	padjunct	_	_
-33	caoin-chead	caoinchead	Noun	Noun	Masc+Com+Sg	32	pobj	_	_
+33	caoin-chead	caoin-chead	Noun	Noun	Masc+Com+Sg	32	pobj	_	_
 34	eagarthóra	eagarthóir	Noun	Noun	Masc+Gen+Sg	33	nadjunct	_	_
 35	na	na	Art	Art	Gen+Sg+Def+Fem	36	det	_	_
 36	hirise	iris	Noun	Noun	Fem+Gen+Sg+hPref	34	nadjunct	_	_
@@ -2014,7 +2014,7 @@
 7	acht	ach	Conj	Subord	_	3	particle	_	_
 8	mí-ádh	mí-ádh	Noun	Noun	Masc+Com+Sg	9	coord	_	_
 9	agus	agus	Conj	Coord	_	3	obj	_	_
-10	dí-mheas	dímheas	Noun	Noun	Masc+Com+Sg	9	coord	_	_
+10	dí-mheas	dí-mheas	Noun	Noun	Masc+Com+Sg	9	coord	_	_
 11	ar	ar	Prep	Simp	_	9	padjunct	_	_
 12	theanga	teanga	Noun	Noun	Fem+Com+Sg+Len	11	pobj	_	_
 13	d'	do	Prep	Simp	_	12	padjunct	_	_
